@@ -7,7 +7,7 @@
 <br/>
 
 - 👀 I’m interested in challenges that improve and test my skills
-- 🌱 I’m currently studying at trybe
+- 🌱 I’m currently studying WEB development at Trybe
 - 🚀 I'm currently learning ReactJS and Python
 - 💬 About me: I'm a lover of technology, games, sports and coffee
 <br/><br/>
