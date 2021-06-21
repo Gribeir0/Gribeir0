@@ -6,11 +6,10 @@
 
 <br/>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👀 I’m interested in challenges that improve and test my skills
+- 🌱 I’m currently studying at trybe
+- 🚀 I'm currently learning ReactJS and Python
+- 💬 About me: I'm a lover of technology, games, sports and coffee
 <br/><br/>
 
 [![Gabriel Ribeiro's github stats](https://github-readme-stats.vercel.app/api?username=Gribeir0&hide=stars,issues&show_icons=true&bg_color=0d1117&title_color=b51414&icon_color=7a120a&text_color=fff)](https://github.com/Gribeir0/github-readme-stats)
