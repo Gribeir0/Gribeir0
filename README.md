@@ -12,7 +12,8 @@
 <p align="center">
   <a href="https://github.com/Gribeir0?tab=repositories">Projetos</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/gabriel-sribeiro-/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:gribeiro237@gmail.com">Contato</a>
+  <a href="mailto:gribeiro237@gmail.com">Contato</a> &nbsp; / &nbsp;
+  <a href="https://tenpest.seg.br">TENPEST</a>
 </p>
 
 ## Olá, sou Gabriel Ribeiro
@@ -49,4 +50,4 @@ Manual web do SafePhish — um ponto de encontro entre conteúdo de segurança e
   Tem um projeto ou desafio de segurança em mente? <a href="mailto:gribeiro237@gmail.com">Vamos conversar.</a>
 </p>
 
-<p align="center"><sub>Identidade visual TENPEST · <a href="./assets/tenpest-animated.svg">Logo vetorial animada</a></sub></p>
+<p align="center"><sub>Identidade visual <a href="https://tenpest.seg.br">TENPEST — tenpest.seg.br</a> · <a href="./assets/tenpest-animated.svg">Logo vetorial animada</a></sub></p>
